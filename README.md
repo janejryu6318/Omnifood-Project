@@ -2,22 +2,30 @@
 
 ## 🌐 Web Development Project  
 
-I created my personal portfolio website to showcase my current and future projects in a structured and visually appealing way. This repository contains two versions of my portfolio:  
+This repository showcases my personal portfolio website, designed to present my current and future projects in a professional manner.  
 
-1. **Custom Portfolio Website** – Built from scratch, incorporating modern web development best practices.  
-2. **Learning Project** – Developed while learning HTML and CSS, based on structured tutorials and coursework.  
+It contains two versions of my portfolio:  
 
-By working on these projects, I gained hands-on experience in responsive design, accessibility, and front-end development.  
+1. **Custom Portfolio Website** (`Jane's Website/`)  
+   - Built from scratch using modern web development techniques.  
+   - Implements responsive design for seamless viewing on all devices.  
+   - Follows best practices for HTML, CSS, and accessibility.  
 
+2. **Omnifood Project** (`Omnifood/`)  
+   - A guided project developed as part of my HTML and CSS learning journey.  
+   - Based on the **Build Responsive Real-World Websites with HTML and CSS** course on Udemy.  
+   - Covers key front-end concepts such as flexbox, grid, and animations.  
 
+These projects have helped me gain hands-on experience in front-end web development, including layout structuring, styling, and user experience design.  
 
 ---
 
-## 📂 Repository Structure 
+## 📂 Repository Structure  
 
-- `Jane's Website/`: Custom Portfolio Website 
-- `Omnifood/`: Omnifood Project from Udemy 
+- `Jane's Website/` - My custom-built portfolio website.  
+- `Omnifood/` - The Omnifood project from Udemy’s web development course.  
 
+Each folder contains source files, assets, and structured code demonstrating different aspects of website creation.  
 
 ---
 
