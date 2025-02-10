@@ -9,6 +9,16 @@ I created my personal portfolio website to showcase my current and future projec
 
 By working on these projects, I gained hands-on experience in responsive design, accessibility, and front-end development.  
 
+
+
+---
+
+## 📂 Repository Structure 
+
+- `Jane's Website/`: Custom Portfolio Website 
+- `Omnifood/`: Omnifood Project from Udemy 
+
+
 ---
 
 ## 📌 Credits  
